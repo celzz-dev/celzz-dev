@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Omar (celzz-dev)
+#  Hi, I'm Omar (celzz-dev)
 
 I am a 14-year-old systems programmer focused on **low-level software, OS internals, and memory management**. I learn by building things from scratch, mostly in **C**.
 
 My primary environment is **Arch Linux**, which I installed manually and configured from the command line.
 
 ###  Core Technologies & Tools
-* **Languages:** C, C++, and python
+* **Languages:** C, C++, python, and some assembly
 * **Systems & OS:** Arch Linux, Linux System Calls
 * **Tooling:** GDB, Valgrind, Make, Git
 * **Concepts:** Memory Management, Pointers, Data Structures
@@ -29,7 +29,7 @@ A header-only C library built to replace parts of `glibc`.
 
 ---
 
-### 📫 Get in Touch
+###  Get in Touch
 I'm currently looking for **mentorship, open-source collaborations, or remote internships** in systems and low-level development.
 * **Email:** [celzzdev@gmail.com]
 
