@@ -4,7 +4,7 @@ I am a 14-year-old systems programmer focused on **low-level software, OS intern
 
 My primary environment is **Arch Linux**, which I installed manually and configured from the command line.
 
-### 🛠️ Core Technologies & Tools
+###  Core Technologies & Tools
 * **Languages:** C, C++, and python
 * **Systems & OS:** Arch Linux, Linux System Calls
 * **Tooling:** GDB, Valgrind, Make, Git
@@ -12,9 +12,9 @@ My primary environment is **Arch Linux**, which I installed manually and configu
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-#### 📚 [kamelib](https://github.com//celzz-dev//kamelib) | *Custom C Standard Library*
+####  [kamelib](https://github.com//celzz-dev//kamelib) | *Custom C Standard Library*
 A header-only C library built to replace parts of `glibc`.
 * **kmem:** A custom memory allocator built from scratch using `mmap`. Features block splitting, forward/backward coalescing, and realloc logic.
 * **kstr/kvec:** Custom dynamic string and vector data structures written in pure C.
@@ -23,7 +23,7 @@ A header-only C library built to replace parts of `glibc`.
 
 ---
 
-### 📖 Currently Learning
+###  Currently Learning
 * **Kernel Development:** Writing my first Linux Kernel Modules and exploring bare-metal OS creation.
 * **Makefiles & Build Systems:** Understanding how the kernel's `kbuild` system works.
 
